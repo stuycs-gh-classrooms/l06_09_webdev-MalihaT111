@@ -16,9 +16,9 @@ function draw() {
 }
 
 
-function avatar(var x, var y) {
+function avatar( x, y) {
 
-fill(#3AA076);
+fill(200,1,33);
 
 circle(x,y,100);
 
@@ -26,6 +26,6 @@ fill(200,200,200);
 
 circle(x,y,66);
 
-fill(#9052B9);
+fill(34,45,100);
 
 square(x,y,33); }
